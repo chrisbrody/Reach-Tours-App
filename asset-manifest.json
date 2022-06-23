@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Reach-Tours-App/static/css/main.566bd010.css",
+    "main.js": "/Reach-Tours-App/static/js/main.f6040fec.js",
+    "index.html": "/Reach-Tours-App/index.html",
+    "main.566bd010.css.map": "/Reach-Tours-App/static/css/main.566bd010.css.map",
+    "main.f6040fec.js.map": "/Reach-Tours-App/static/js/main.f6040fec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.566bd010.css",
+    "static/js/main.f6040fec.js"
+  ]
+}
